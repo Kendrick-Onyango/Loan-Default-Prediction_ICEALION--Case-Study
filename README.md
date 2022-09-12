@@ -51,4 +51,4 @@ The notebook to the task can be found in the separate Notebook attached Main Fil
 REPORTING, INSIGHTS AND RECOMMENDATION
 This is where your client sees the value of the work you have been doing. For this, I prepared an executive summary slide detailing the findings, insights and recommendations.
 
-The presentation can be found on this slide.
+The presentation can be found on this https://docs.google.com/presentation/d/17HkzjXdx6Zt6Dw4fjvlN8ybKFL04PAsL/edit?usp=sharing&ouid=114603676170158226679&rtpof=true&sd=true .
